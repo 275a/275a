@@ -1,4 +1,11 @@
-### Hi there 👋
+# Hi there 👋
+## my skills🌱
+[![My Skills](https://skillicons.dev/icons?i=html,css,js,vue,nuxt,python,cs,figma)](https://skillicons.dev)
+
+
+# What is 275A?
+
+__275A__ is a web designer, game designer, and game programmer.
 
 <!--
 **275a/275a** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
